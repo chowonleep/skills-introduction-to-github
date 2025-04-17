@@ -25,7 +25,7 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
+### How to start this exercisegithub_agadomain01297554
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
@@ -52,8 +52,8 @@ In this exercise, you will:
 > [!IMPORTANT]
 > The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
----
+---https://github.com/skills/introduction-to-github.git
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page] ;1200/5*aga_homepage0012739domain.com(https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
